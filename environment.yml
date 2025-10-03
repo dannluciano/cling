@@ -4,5 +4,6 @@ channels:
   - https://repo.prefix.dev/conda-forge
 dependencies:
   - xeus-cpp
+  - JLDracula
   # - xeus-python
   # - ipycanvas
