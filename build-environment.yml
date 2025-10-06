@@ -7,9 +7,10 @@ dependencies:
   - jupyter_server
   - jupyterlite-core >=0.6
   - jupyterlite-xeus >=4
-  - catppuccin-jupyterlab
   - pip:
+    - catppuccin-jupyterlab
     - jupyterlab-night
     - jupyterlab_miami_nights
     - JLDracula
     - jupyterlab-language-pack-pt-BR
+    - jupyterlab_rise
