@@ -5,6 +5,7 @@ channels:
 dependencies:
   - xeus-cpp
   - catppuccin-jupyterlab
-  # - JLDracula
-  # - xeus-python
-  # - ipycanvas
+  - pip:
+    - jupyterlab-night
+    - jupyterlab_miami_nights
+    - JLDracula
