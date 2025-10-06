@@ -8,3 +8,6 @@ dependencies:
   - jupyterlite-core >=0.6
   - jupyterlite-xeus >=4
   - catppuccin-jupyterlab
+  - jupyterlab-night
+  - jupyterlab_miami_nights
+  - JLDracula
