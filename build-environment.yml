@@ -5,8 +5,8 @@ dependencies:
   - python
   - pip
   - jupyter_server
-  - jupyterlite-core >=0.6
-  - jupyterlite-xeus >=4
+  - jupyterlite-core
+  - jupyterlite-xeus
   - pip:
     - catppuccin-jupyterlab
     - jupyterlab-night
